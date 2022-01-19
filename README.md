@@ -1,9 +1,11 @@
 # Hi there 👋, I'm Ahmed!
-## Software Development Engineer In Test at
-<a href="https://www.vodafone.com.tr/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/1/18/Vodafone_2017.svg" width="60" height="60" /> </a>
 
 ## About Me
 I am a automation tester and I am helping others to make sure their product has top quality, bug-free. I really enjoy learning computer languages and frameworks like Java and Spring...
+
+## Software Development Engineer In Test at
+<a href="https://www.vodafone.com.tr/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/1/18/Vodafone_2017.svg" width="60" height="60" /> </a>
+
 ## Skills: 
 <p align="left">
 </p>
