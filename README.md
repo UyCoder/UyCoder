@@ -1,8 +1,4 @@
-
-[Software Development Engineer In Test]<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F657173770599397663%2F&psig=AOvVaw1W5icuTlkaLo-utkDUbSg9&ust=1642535502045000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDDz-LHufUCFQAAAAAdAAAAABAE">
-![Software Development Engineer In Test](https://media-exp1.licdn.com/dms/image/C4D16AQGrbr2pEgI26A/profile-displaybackgroundimage-shrink_350_1400/0/1640814302100?e=1646870400&v=beta&t=4ClrhvbqLBXJjo4OOizged3h9e0Ht-jYG5gRBwD-NQU)
-
-# Hi there 👋, Adil Enver
+# Hi there 👋, I'm Ahmed!
 ## Software Development Engineer In Test 
 ## About Me
 Testing is a fun job for me because you are a very important person for the client and end-user. I am helping others to make sure their product has top quality, bug-free. Testing is my passion , to do test we can build a bug-free applications, to satisfied end-user ,to build great products to generate more revenue. I am Adil, and I do content on Design and Implement various Test automation frameworks using Selenium Java WebDriver. I really enjoy learning language and frameworks like Cucumber, TestNG, JUnit and Console application test harness. 
