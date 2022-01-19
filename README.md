@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ahmed!
 ## Software Development Engineer In Test 
 ## About Me
-Testing is a fun job for me because you are a very important person for the client and end-user. I am helping others to make sure their product has top quality, bug-free. Testing is my passion , to do test we can build a bug-free applications, to satisfied end-user ,to build great products to generate more revenue. I am Adil, and I do content on Design and Implement various Test automation frameworks using Selenium Java WebDriver. I really enjoy learning language and frameworks like Cucumber, TestNG, JUnit and Console application test harness. 
+I am a automation tester and I am helping others to make sure their product has top quality, bug-free. I really enjoy learning computer languages and frameworks like Java and Spring...
 ## Skills: 
 <p align="left">
 </p>
@@ -10,5 +10,6 @@ Testing is a fun job for me because you are a very important person for the clie
 
 
 - 🔭 I’m currently working on |Vodafone Turkey| 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdilEnverUygur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adilenver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adiljan_anwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17361264/adilenver) 
+- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uycoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-bughra/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16111723/ahmad-ali) 
 
