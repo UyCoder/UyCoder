@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ahmed!
 
 ## About Me
-I am helping others to make sure their product has top quality, bug-free. I really enjoy learning computer languages and frameworks. I want to deep dive into technologies like Java and Spring frameworks..
+I am helping others to make sure their product has top quality, bug-free. I really enjoy learning computer languages and frameworks. I want to dive into technologies like Java and Spring frameworks..
 
 ## Software Development Engineer In Test at
 <a href="https://www.vodafone.com.tr/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/1/18/Vodafone_2017.svg" width="60" height="60" /> </a>
