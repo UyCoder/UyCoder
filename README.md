@@ -1,8 +1,13 @@
-# Hi there 👋, I'm Ahmed! 
+# Hi there 👋,
 
 ## About Me 
-I am helping others to make sure their product has top quality, bug-free. I really enjoy learning computer languages and frameworks. 
-I want to dive into technologies like Java and Spring frameworks...
+My name is Ahmed and I am an automation tester with over 3.5 years of experience in ensuring the quality and reliability of software applications. I have experience in both UI testing and backend testing, and currently work as an API tester for Vodafone.
+
+In my current role, I am responsible for designing and executing automated tests for mobile financiel service for Vodafone. With my extensive experience, I am able to provide thorough and accurate testing to ensure that our products meet the highest standards of quality.
+
+I am always looking to learn new technologies and frameworks, including Java and Spring, in order to enhance my skills and contribute to the tech community.
+
+Thank you for visiting my profile. I look forward to collaborating and sharing ideas with fellow testers and developers on GitHub.
 
 ## Software Development Engineer In Test @
 <a href="https://www.vodafone.com.tr/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/1/18/Vodafone_2017.svg" width="60" height="60" /> </a>
