@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:0099FF,100:6FB1FC&height=220&section=header&text=%E2%98%AA%EF%B8%8E%20AHMED%20BUGHRA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20Senior%20SDET%20%7C%20Agentic%20AI%20Architect%20%7C%20Graph%20%26%20Prompt%20Engineer%20%E2%9C%A6&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+<!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic (XML-Safe Fixed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:0099FF,100:6FB1FC&height=220&section=header&text=%E2%98%AA%20AHMED%20BUGHRA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20Senior%20SDET%20%7C%20Agentic%20AI%20Architect%20%7C%20Graph%20%E2%80%A2%20Prompt%20Engineer%20%E2%9C%A6&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
 
-<!-- ⚡ Animated Cyber-Blue Typing SVG -->
+<!-- ⚡ Animated Cyber-Blue Typing SVG (XML-Safe Fixed) -->
 <a href="https://github.com/Uycoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%F0%9F%8C%99+Architecting+Self-Healing+Test+Ecosystems+%26+Agentic+AI+Workflows;Claude+AI+%E2%80%A2+Vibe+Coding+%E2%80%A2+Prompt+Engineering+%E2%80%A2+Graph+Engineering;Senior+SDET+%40+Vodafone+FinTech+%7C+5%2B+Years+of+Quality+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%E2%98%AA+Architecting+Self-Healing+Test+Ecosystems+%2B+Agentic+AI+Workflows;Claude+AI+%E2%80%A2+Vibe+Coding+%E2%80%A2+Prompt+Engineering+%E2%80%A2+Graph+Engineering;Senior+SDET+%40+Vodafone+FinTech+%7C+5%2B+Years+of+Quality+Engineering" alt="Typing SVG" />
 </a>
 
 <!-- 🛡️ Sky-Blue & White Prestige Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%98%AA%EF%B8%8E_Identity-Kok_Bayraq_Spirit-0099FF?style=for-the-badge&labelColor=061326&color=0099FF" alt="Kok Bayraq" />
+  <img src="https://img.shields.io/badge/%E2%98%AA_Identity-Kok_Bayraq_Spirit-0099FF?style=for-the-badge&labelColor=061326&color=0099FF" alt="Kok Bayraq" />
   <a href="https://www.vodafone.com.tr/" target="_blank">
     <img src="https://img.shields.io/badge/Role-SDET_%40_Vodafone_FinTech-FFFFFF?style=for-the-badge&logo=vodafone&logoColor=0099FF&labelColor=0099FF" alt="Vodafone" />
   </a>
@@ -64,15 +64,15 @@ By combining **Graph Engineering** (mapping API topologies and microservice depe
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#061930', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#00B4FF', 'lineColor': '#00B4FF', 'secondaryColor': '#0066CC', 'tertiaryColor': '#041020'}}}%%
 graph TD
     subgraph AI_NEXUS ["🌙 AI-Native Cognitive Layer (Azure Core)"]
-        VIBE["⚡ Vibe Coding & Spec Synthesis"] --> PE["🎯 Advanced Prompt Engineering"]
-        PE --> CLAUDE["🤖 Claude AI & Agentic Orchestrator"]
+        VIBE["⚡ Vibe Coding + Spec Synthesis"] --> PE["🎯 Advanced Prompt Engineering"]
+        PE --> CLAUDE["🤖 Claude AI + Agentic Orchestrator"]
         GRAPH["🕸️ Graph Engineering / Knowledge Graph"] <--> CLAUDE
     end
 
     subgraph FINTECH_CORE ["🛡️ Enterprise FinTech Verification (@Vodafone)"]
-        CLAUDE -->|Autonomous Test Gen| API["🔌 FinTech REST APIs & Microservices"]
-        CLAUDE -->|Self-Healing Locators| UI["🖥️ Selenium & Cucumber BDD"]
-        GRAPH -->|Schema & Impact Analysis| DB[("🗄️ Oracle & PostgreSQL")]
+        CLAUDE -->|Autonomous Test Gen| API["🔌 FinTech REST APIs + Microservices"]
+        CLAUDE -->|Self-Healing Locators| UI["🖥️ Selenium + Cucumber BDD"]
+        GRAPH -->|Schema + Impact Analysis| DB[("🗄️ Oracle + PostgreSQL")]
     end
 
     API --> GATE(("✨ Zero-Defect Release"))
@@ -133,8 +133,8 @@ graph TD
 ### 📊 Live Telemetry & GitHub Matrix (Kök Bayraq Edition)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uycoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=041020&title_color=00B4FF&icon_color=0099FF&text_color=FFFFFF" alt="Ahmed's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uycoder&layout=compact&langs_count=8&hide_border=true&bg_color=041020&title_color=00B4FF&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Uycoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=041020&title_color=00B4FF&icon_color=0099FF&text_color=FFFFFF" alt="Ahmed's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uycoder&layout=compact&langs_count=8&hide_border=true&bg_color=041020&title_color=00B4FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -158,6 +158,7 @@ graph TD
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:0099FF,100:0052D4&height=110&section=footer&text=%E2%98%AA%EF%B8%8E%20Engineered%20with%20Precision%2C%20AI%20%26%20Freedom%20%E2%98%AA%EF%B8%8E&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
+<!-- 🟦 Footer Wave Banner (XML-Safe Fixed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:0099FF,100:0052D4&height=110&section=footer&text=%E2%98%AA%20Engineered%20with%20Precision%20%E2%80%A2%20AI%20%E2%80%A2%20Freedom%20%E2%98%AA&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
 
 </div>
