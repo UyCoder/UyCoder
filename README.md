@@ -1,23 +1,35 @@
+بۇ كاشىلىنىڭ تۈپ يىلتىزى **XML/SVG كودىدىكى `&` (Ampersand) بەلگىسىنىڭ توقۇنۇشۇپ قېلىشى**دۇر.
+
+### 🔍 نېمە سەۋەبتىن بۇنداق بولدى؟
+Header بۆلىكىدىكى `capsule-render` رەسىمى ۋە بەزى Badge ئادرېسلىرىدا `&` (يەنى `%26`) بەلگىسى بار ئىدى. SVG ھۆججىتى تېكىستنى چىقارغاندا يەككە `&` بەلگىسىنى كۆرگەن ھامان، XML تەھلىلچىسى (XML Parser) ئۇنى بىر پۈتۈن گەۋدە (`&amp;` غا ئوخشاش entity) دەپ گۇمان قىلىپ ئوقۇيدۇ، كەينىدىن ھېچقانداق نام چىقمىغاندا دەل مۇشۇ **`error: xmlParseEntityRef: no name`** خاتالىقىنى تاشلاپ رەسىمنى سۇندۇرۇپ قويىدۇ.
+
+تۆۋەندە كاشىلا تۇغدۇرغان بارلىق `&` بەلگىلىرى 100% بىخەتەر بولغان **`+`** ۋە **`•`** بەلگىلىرىگە ئالماشتۇرۇلدى، كود XML ۋە GitHub Markdown ئۆلچىمىگە تولۇق ماسلاشتۇرۇلدى.
+
+---
+
+### 🛠️ رېمونت قىلىنغان ۋە تولۇق ئىشلەيدىغان كود:
+
+```markdown
 <div align="center">
 
 <!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020D1A,30:0052D4,70:0099FF,100:6FB1FC&height=230&section=header&text=%E2%98%AA%20AHMED%20BUGHRA&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%20Agentic%20AI%20Architect%20%E2%80%A2%20Senior%20SDET%20%E2%80%A2%20GraphRAG%20%26%20MCP%20Engineer%20%E2%9C%A6&descAlignY=62&descSize=18" width="100%" alt="Ahmed Bughra Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020D1A,30:0052D4,70:0099FF,100:6FB1FC&height=230&section=header&text=%E2%98%AA%20AHMED%20BUGHRA&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%20Agentic%20AI%20Architect%20%E2%80%A2%20Senior%20SDET%20%E2%80%A2%20GraphRAG%20%2B%20MCP%20Engineer%20%E2%9C%A6&descAlignY=62&descSize=18" width="100%" alt="Ahmed Bughra Header Banner" />
 
 <!-- ⚡ Animated Cyber-Blue Typing SVG -->
 <a href="https://github.com/Uycoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&repeat=true&width=880&height=55&lines=%E2%98%AA+7.5%2B+Years+Enterprise+SDET+%2B+API+%2B+Autonomous+AI+Engineering;%E2%9A%A1+Pioneering+Agentic+AI+%E2%80%A2+Claude+MCP+%E2%80%A2+GraphRAG+%2B+Vibe+Coding;%F0%9F%8F%A2+2+Years+API+Architect+for+PropTech+%26+Real-Estate+Ecosystems;%F0%9F%9B%A1%EF%B8%8F+4.5+Years+Senior+SDET+%40+Vodafone+Mobile+Financial+Services" alt="Dynamic Role Cycling" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&repeat=true&width=880&height=55&lines=%E2%98%AA+7.5%2B+Years+Enterprise+SDET+%2B+API+%2B+Autonomous+AI+Engineering;%E2%9A%A1+Pioneering+Agentic+AI+%E2%80%A2+Claude+MCP+%E2%80%A2+GraphRAG+%2B+Vibe+Coding;%F0%9F%8F%A2+2+Years+API+Architect+for+PropTech+%2B+Real-Estate+Ecosystems;%F0%9F%9B%A1%EF%B8%8F+4.5+Years+Senior+SDET+%40+Vodafone+Mobile+Financial+Services" alt="Dynamic Role Cycling" />
 </a>
 
 <br/>
 
 <!-- 🛡️ Sky-Blue & Pure White Prestige Identity Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%98%AA_Identity-K%C3%B6k_Bayraq_Spirit-0099FF?style=for-the-badge&labelColor=020D1A&color=0099FF" alt="Kok Bayraq Identity" />
+  <img src="https://img.shields.io/badge/%E2%98%AA_Identity-K%C3%B6k_Bayraq_Spirit-0099FF?style=for-the-badge&amp;labelColor=020D1A&amp;color=0099FF" alt="Kok Bayraq Identity" />
   <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Frontier-Agentic_AI_Architect-00D2FF?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=020D1A" alt="Agentic AI" />
+    <img src="https://img.shields.io/badge/Frontier-Agentic_AI_Architect-00D2FF?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white&amp;labelColor=020D1A" alt="Agentic AI" />
   </a>
-  <img src="https://img.shields.io/badge/Enterprise-7.5%2B_Years_Mastery-FFFFFF?style=for-the-badge&logo=codacy&logoColor=0099FF&labelColor=0077CC" alt="Experience" />
-  <img src="https://komarev.com/ghpvc/?username=Uycoder&label=Profile%20Telemetry&color=00B4FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Enterprise-7.5%2B_Years_Mastery-FFFFFF?style=for-the-badge&amp;logo=codacy&amp;logoColor=0099FF&amp;labelColor=0077CC" alt="Experience" />
+  <img src="https://komarev.com/ghpvc/?username=Uycoder&amp;label=Profile%20Telemetry&amp;color=00B4FF&amp;style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -29,7 +41,7 @@
 ```ini
 [SYSTEM_ID: AHMED_BUGHRA]   [PROTOCOL: KÖK_BAYRAQ_CYBER]   [STATUS: REASONING & BUILDING]
 -----------------------------------------------------------------------------------------
-► CORE_ENGINE      : Multi-Agent Swarms & Model Context Protocol (MCP)
+► CORE_ENGINE      : Multi-Agent Swarms • Model Context Protocol (MCP)
 ► COGNITIVE_LAYER  : Claude Sonnet/Opus 3.7 • Extended Thinking • GraphRAG Topologies
 ► RAPID_EXECUTION  : Vibe Coding (10x Synthesis) Enforced by Vodafone-Grade Enterprise Rigor
 ► ROOTS & PATH     : 4.5 Yrs Vodafone FinTech ➔ 2 Yrs PropTech API ➔ Autonomous AI Nexus
@@ -111,11 +123,11 @@ graph LR
 
 | Strategic Domain | Mission-Critical Technologies & Frameworks |
 | :--- | :--- |
-| **🤖 Agentic AI & Cognitive Core** | ![Claude AI](https://img.shields.io/badge/Claude_AI-0099FF?style=for-the-badge&logo=anthropic&logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/MCP_Protocol-0052D4?style=for-the-badge&logo=databricks&logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Multi--Agent_Swarms-00B4FF?style=for-the-badge&logo=deepnote&logoColor=white) ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00D2FF?style=for-the-badge&logo=gnubash&logoColor=white) ![GraphRAG](https://img.shields.io/badge/GraphRAG_%26_Neo4j-003366?style=for-the-badge&logo=neo4j&logoColor=white) |
-| **☕ Backend & Enterprise APIs** | ![Java](https://img.shields.io/badge/Java_Enterprise-0077CC?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0099FF?style=for-the-badge&logo=springboot&logoColor=white) ![REST Services](https://img.shields.io/badge/PropTech_&_FinTech_APIs-00B4FF?style=for-the-badge&logo=fastapi&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_ORM-0055AA?style=for-the-badge&logo=hibernate&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-004080?style=for-the-badge&logo=javascript&logoColor=white) |
-| **🧪 Quality Engineering & SDET** | ![Selenium](https://img.shields.io/badge/Selenium_HQ-0099FF?style=for-the-badge&logo=selenium&logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/Cucumber_BDD-0077CC?style=for-the-badge&logo=cucumber&logoColor=white) ![Postman](https://img.shields.io/badge/Postman_API_Tests-00B4FF?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira_Enterprise-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Test Automation](https://img.shields.io/badge/E2E_Zero--Defect-003366?style=for-the-badge&logo=checkmarx&logoColor=white) |
-| **☁️ DevOps, Cloud & CI/CD** | ![AWS](https://img.shields.io/badge/AWS_Cloud-0099FF?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker_Containers-0077CC?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins_CI/CD-00B4FF?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-0055AA?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git_VCS-004080?style=for-the-badge&logo=git&logoColor=white) |
-| **🗄️ Persistence & Graph Topologies** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0077CC?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-0099FF?style=for-the-badge&logo=oracle&logoColor=white) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-00D2FF?style=for-the-badge&logo=diagramsdotnet&logoColor=white) |
+| **🤖 Agentic AI & Cognitive Core** | ![Claude AI](https://img.shields.io/badge/Claude_AI-0099FF?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/MCP_Protocol-0052D4?style=for-the-badge&amp;logo=databricks&amp;logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Multi--Agent_Swarms-00B4FF?style=for-the-badge&amp;logo=deepnote&amp;logoColor=white) ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00D2FF?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white) ![GraphRAG](https://img.shields.io/badge/GraphRAG_%2B_Neo4j-003366?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white) |
+| **☕ Backend & Enterprise APIs** | ![Java](https://img.shields.io/badge/Java_Enterprise-0077CC?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0099FF?style=for-the-badge&amp;logo=springboot&amp;logoColor=white) ![REST Services](https://img.shields.io/badge/PropTech_%2B_FinTech_APIs-00B4FF?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_ORM-0055AA?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-004080?style=for-the-badge&amp;logo=javascript&amp;logoColor=white) |
+| **🧪 Quality Engineering & SDET** | ![Selenium](https://img.shields.io/badge/Selenium_HQ-0099FF?style=for-the-badge&amp;logo=selenium&amp;logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/Cucumber_BDD-0077CC?style=for-the-badge&amp;logo=cucumber&amp;logoColor=white) ![Postman](https://img.shields.io/badge/Postman_API_Tests-00B4FF?style=for-the-badge&amp;logo=postman&amp;logoColor=white) ![Jira](https://img.shields.io/badge/Jira_Enterprise-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white) ![Test Automation](https://img.shields.io/badge/E2E_Zero--Defect-003366?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white) |
+| **☁️ DevOps, Cloud & CI/CD** | ![AWS](https://img.shields.io/badge/AWS_Cloud-0099FF?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white) ![Docker](https://img.shields.io/badge/Docker_Containers-0077CC?style=for-the-badge&amp;logo=docker&amp;logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins_CI/CD-00B4FF?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-0055AA?style=for-the-badge&amp;logo=linux&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git_VCS-004080?style=for-the-badge&amp;logo=git&amp;logoColor=white) |
+| **🗄️ Persistence & Graph Topologies** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0077CC?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-0099FF?style=for-the-badge&amp;logo=oracle&amp;logoColor=white) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-00D2FF?style=for-the-badge&amp;logo=diagramsdotnet&amp;logoColor=white) |
 
 </div>
 
@@ -124,29 +136,29 @@ graph LR
 ### 🏆 GitHub Honor & Achievement Vault
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uycoder&theme=tokyonight&no-bg=false&no-frame=false&margin-w=10&row=1&column=6" alt="Ahmed's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Uycoder&amp;theme=tokyonight&amp;no-bg=false&amp;no-frame=false&amp;margin-w=10&amp;row=1&amp;column=6" alt="Ahmed's GitHub Trophies" />
 </div>
 
 <br/>
 
-### 📊 Real-Time GitHub Telemetry & Language Matrix (Fixed & High-Availability)
+### 📊 Real-Time GitHub Telemetry & Language Matrix
 
 <div align="center">
   <!-- Official High-Uptime GitHub Stats with Custom Azure Theme -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Uycoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=0099FF&bg_color=020D1A&title_color=00D2FF&icon_color=0099FF&text_color=FFFFFF" alt="Ahmed's GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Uycoder&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;border_color=0099FF&amp;bg_color=020D1A&amp;title_color=00D2FF&amp;icon_color=0099FF&amp;text_color=FFFFFF" alt="Ahmed's GitHub Stats" />
   
   <!-- Languages Breakdown -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uycoder&layout=compact&langs_count=8&hide_border=false&border_color=0099FF&bg_color=020D1A&title_color=00D2FF&text_color=FFFFFF" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uycoder&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;border_color=0099FF&amp;bg_color=020D1A&amp;title_color=00D2FF&amp;text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
   <!-- Activity Streak with Neon Cyan Fire -->
-  <img src="https://streak-stats.demolab.com?user=Uycoder&hide_border=false&border=0099FF&background=020D1A&ring=00D2FF&fire=0099FF&currStreakLabel=00D2FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=6FB1FC&sideLabels=0099FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Uycoder&amp;hide_border=false&amp;border=0099FF&amp;background=020D1A&amp;ring=00D2FF&amp;fire=0099FF&amp;currStreakLabel=00D2FF&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=6FB1FC&amp;sideLabels=0099FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <!-- Dynamic Activity Wave -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uycoder&custom_title=Autonomous%20Neural%20Commit%20Telemetry&bg_color=020D1A&color=00D2FF&line=0099FF&point=FFFFFF&area=true&area_color=0052D4&hide_border=false&border_color=0099FF" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uycoder&amp;custom_title=Autonomous%20Neural%20Commit%20Telemetry&amp;bg_color=020D1A&amp;color=00D2FF&amp;line=0099FF&amp;point=FFFFFF&amp;area=true&amp;area_color=0052D4&amp;hide_border=false&amp;border_color=0099FF" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -181,10 +193,10 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Bughra-0099FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020D1A)](https://www.linkedin.com/in/ahmed-bughra/)
-[![GitHub](https://img.shields.io/badge/GitHub-Uycoder-FFFFFF?style=for-the-badge&logo=github&logoColor=0099FF&labelColor=0077CC)](https://github.com/Uycoder)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ahmedbughra-00D2FF?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=020D1A)](https://www.hackerrank.com/ahmedbughra)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ahmad_Ali-FFFFFF?style=for-the-badge&logo=stackoverflow&logoColor=0099FF&labelColor=0099FF)](https://stackoverflow.com/users/16111723/ahmad-ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Bughra-0099FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=020D1A)](https://www.linkedin.com/in/ahmed-bughra/)
+[![GitHub](https://img.shields.io/badge/GitHub-Uycoder-FFFFFF?style=for-the-badge&amp;logo=github&amp;logoColor=0099FF&amp;labelColor=0077CC)](https://github.com/Uycoder)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ahmedbughra-00D2FF?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white&amp;labelColor=020D1A)](https://www.hackerrank.com/ahmedbughra)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ahmad_Ali-FFFFFF?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=0099FF&amp;labelColor=0099FF)](https://stackoverflow.com/users/16111723/ahmad-ali)
 
 <br/><br/>
 
