@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic -->
