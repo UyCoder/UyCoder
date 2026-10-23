@@ -1,22 +1,20 @@
 <div align="center">
 
-<!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic (XML-Safe Fixed) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:0099FF,100:6FB1FC&height=220&section=header&text=%E2%98%AA%20AHMED%20BUGHRA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20Senior%20SDET%20%7C%20Agentic%20AI%20Architect%20%7C%20Graph%20%E2%80%A2%20Prompt%20Engineer%20%E2%9C%A6&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+<!-- 🟦 East Turkistan Sky-Blue Wave Banner & Crescent Star Aesthetic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:0099FF,100:6FB1FC&height=220&section=header&text=%E2%98%AA%20AHMED%20BUGHRA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20Agentic%20AI%20Architect%20%7C%20Senior%20SDET%20%7C%20API%20%E2%80%A2%20Graph%20%E2%80%A2%20Prompt%20Engineer%20%E2%9C%A6&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
 
-<!-- ⚡ Animated Cyber-Blue Typing SVG (XML-Safe Fixed) -->
+<!-- ⚡ Animated Cyber-Blue Typing SVG (Zero-Clipping Fixed: Single-Line Cycling, Optimal Font & Width) -->
 <a href="https://github.com/Uycoder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%E2%98%AA+Architecting+Self-Healing+Test+Ecosystems+%2B+Agentic+AI+Workflows;Claude+AI+%E2%80%A2+Vibe+Coding+%E2%80%A2+Prompt+Engineering+%E2%80%A2+Graph+Engineering;Senior+SDET+%40+Vodafone+FinTech+%7C+5%2B+Years+of+Quality+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=55&lines=%E2%98%AA+7.5%2B+Years+of+Software+Quality+%2B+API+%2B+AI+Engineering;1%2B+Yr+Pioneering+Agentic+AI+%E2%80%A2+Claude+AI+%E2%80%A2+Graph+%2B+Prompt+Eng;2+Yrs+Freelance+API+Engineer+for+Real+Estate+(PropTech)+Systems;4.5+Yrs+Senior+SDET+%40+Vodafone+Mobile+Financial+Services" alt="Typing SVG" />
 </a>
 
 <!-- 🛡️ Sky-Blue & White Prestige Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%98%AA_Identity-Kok_Bayraq_Spirit-0099FF?style=for-the-badge&labelColor=061326&color=0099FF" alt="Kok Bayraq" />
-  <a href="https://www.vodafone.com.tr/" target="_blank">
-    <img src="https://img.shields.io/badge/Role-SDET_%40_Vodafone_FinTech-FFFFFF?style=for-the-badge&logo=vodafone&logoColor=0099FF&labelColor=0099FF" alt="Vodafone" />
-  </a>
   <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Core-Claude_Agentic_Systems-00B4FF?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=061326" alt="Claude AI" />
+    <img src="https://img.shields.io/badge/Current_Focus-Agentic_AI_Architect-00B4FF?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=061326" alt="Agentic AI" />
   </a>
+  <img src="https://img.shields.io/badge/Experience-7.5%2B_Years_Enterprise-FFFFFF?style=for-the-badge&logo=semantic-release&logoColor=0099FF&labelColor=0099FF" alt="Experience" />
   <img src="https://komarev.com/ghpvc/?username=Uycoder&label=Profile%20Views&color=0099FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -24,66 +22,78 @@
 
 ---
 
-### 🌌 Executive Paradigm: Next-Gen AI × Quality Engineering
+### 🌌 Executive Paradigm: From Enterprise FinTech & PropTech to Agentic AI
 
-> **"Synthesizing deterministic FinTech Quality Engineering with autonomous Agentic AI, Graph-driven intelligence, and high-velocity Vibe Coding."**
+> **"7.5+ years of engineering evolution: Forged in enterprise FinTech QA at Vodafone, scaled through PropTech API engineering, and now pioneering autonomous Agentic AI, Graph-driven intelligence, and high-velocity Vibe Coding."**
 
-I am **Ahmed Bughra**, a **Senior Software Development Engineer in Test (SDET)** with **5+ years of enterprise experience**, currently safeguarding high-concurrency **Mobile Financial Services (FinTech) at Vodafone**. Beyond traditional UI and Backend API automation, I pioneer **AI-Native Engineering**—leveraging **Claude AI**, **Multi-Agent Orchestration**, **Prompt Engineering**, and **Graph Engineering** to build self-healing verification architectures and ultra-fast software delivery pipelines.
+I am **Ahmed Bughra**, an **Agentic AI Engineer & Senior SDET / API Architect** with **7.5+ years of hands-on industry experience**:
+- 🤖 **Agentic AI & Cognitive Systems (Last 1+ Year — Present):** Architecting autonomous multi-agent workflows, **Claude AI / MCP** ecosystems, **Scientific Prompt Engineering**, **Knowledge Graph / GraphRAG** topologies, and high-velocity **Vibe Coding** pipelines.
+- 🏢 **Freelance Backend & API Engineer — Real Estate / PropTech (2 Years):** Engineered and automated scalable RESTful API services, data pipelines, and backend integrations for a Real Estate API service provider.
+- 🛡️ **Software Development Engineer in Test (SDET) @ Vodafone (4.5 Years):** Spearheaded end-to-end API and UI test automation for high-concurrency **Mobile Financial Services (FinTech)**, ensuring zero-defect transactional reliability.
 
 ```yaml
 # ═══════════════════════════════════════════════════════════════════════════
-# 🌙 SYSTEM TELEMETRY :: AHMED_BUGHRA_CORE_CONFIG.YAML
+# 🌙 SYSTEM TELEMETRY :: AHMED_BUGHRA_CAREER_MATRIX.YAML
 # ═══════════════════════════════════════════════════════════════════════════
 engineer:
   name: "Ahmed Bughra"
   handle: "@Uycoder"
-  role: "Senior SDET & AI-Native Systems Engineer"
-  enterprise_domain: "Vodafone — Mobile Financial Services (FinTech)"
+  total_experience: "7.5+ Years (FinTech + PropTech + Agentic AI)"
   aesthetic_protocol: "Kök Bayraq (Azure Sky #0099FF & Pure White #FFFFFF)"
 
-ai_frontier_capabilities:
-  agentic_ai: "Autonomous Multi-Agent Workflows, Tool-Use Orchestration & Self-Healing QA Agents"
-  claude_ecosystem: "Claude 3.5/3.7 Sonnet, Claude Code CLI, Model Context Protocol (MCP) Integration"
-  vibe_coding: "High-Velocity AI-Augmented Architecture, Rapid Spec-to-Production Synthesis"
-  prompt_engineering: "System Prompt Architecture, Chain-of-Thought (CoT), Few-Shot & Deterministic Eval"
-  graph_engineering: "Knowledge Graphs, GraphRAG, Dependency Topology & AST Code-Graph Analysis"
+career_trajectory:
+  - era: "Present (1+ Year)"
+    role: "Agentic AI & AI-Native Systems Engineer"
+    focus: "Claude AI, Multi-Agent Orchestration, Vibe Coding, Prompt & Graph Engineering"
+  - era: "Previous (2 Years)"
+    role: "Freelance API & Automation Engineer (Real Estate / PropTech)"
+    focus: "Real Estate API Services, Backend Microservices, Data & Integration Pipelines"
+  - era: "Foundation (4.5 Years)"
+    role: "Software Development Engineer in Test (SDET) @ Vodafone"
+    focus: "Mobile Financial Services (FinTech), API & UI Test Automation Architecture"
 
-classic_engineering_pillars:
-  test_automation: ["REST/SOAP API Verification", "Selenium WebDriver", "Cucumber BDD", "Postman"]
-  backend_and_data: ["Java", "Spring Boot", "Hibernate ORM", "Oracle DB", "PostgreSQL"]
-  cloud_and_devops: ["AWS", "Docker Containers", "Jenkins CI/CD", "Linux", "Git"]
+ai_frontier_capabilities:
+  agentic_ai: "Autonomous Multi-Agent Workflows, Tool-Use Orchestration & Self-Healing Systems"
+  claude_ecosystem: "Claude Sonnet/Opus, Claude Code CLI, Model Context Protocol (MCP)"
+  vibe_coding: "High-Velocity AI-Augmented Architecture, Rapid Spec-to-Production Synthesis"
+  prompt_engineering: "Deterministic System Prompts, Chain-of-Thought (CoT) & Eval Rubrics"
+  graph_engineering: "Knowledge Graphs, GraphRAG, API Topology & AST Dependency Mapping"
 ```
 
 ---
 
-### 🧠 Autonomous Agentic AI & Graph-Driven QA Topology
+### 🧠 Career Evolution & Autonomous AI Architecture
 
-By combining **Graph Engineering** (mapping API topologies and microservice dependencies) with **Claude-powered Agentic AI**, my workflow transforms static test suites into living, cognitive quality gates:
+My engineering journey connects battle-tested **FinTech & Real Estate API foundations** directly into an **AI-Native Cognitive Layer**:
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#061930', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#00B4FF', 'lineColor': '#00B4FF', 'secondaryColor': '#0066CC', 'tertiaryColor': '#041020'}}}%%
-graph TD
-    subgraph AI_NEXUS ["🌙 AI-Native Cognitive Layer (Azure Core)"]
-        VIBE["⚡ Vibe Coding + Spec Synthesis"] --> PE["🎯 Advanced Prompt Engineering"]
-        PE --> CLAUDE["🤖 Claude AI + Agentic Orchestrator"]
-        GRAPH["🕸️ Graph Engineering / Knowledge Graph"] <--> CLAUDE
+graph LR
+    subgraph STAGE_1 ["🛡️ 4.5 Yrs @ Vodafone"]
+        VF["FinTech Mobile Money<br/>API + UI SDET"]
     end
 
-    subgraph FINTECH_CORE ["🛡️ Enterprise FinTech Verification (@Vodafone)"]
-        CLAUDE -->|Autonomous Test Gen| API["🔌 FinTech REST APIs + Microservices"]
-        CLAUDE -->|Self-Healing Locators| UI["🖥️ Selenium + Cucumber BDD"]
-        GRAPH -->|Schema + Impact Analysis| DB[("🗄️ Oracle + PostgreSQL")]
+    subgraph STAGE_2 ["🏢 2 Yrs Freelance"]
+        RE["Real Estate (PropTech)<br/>API Service Engineering"]
     end
 
-    API --> GATE(("✨ Zero-Defect Release"))
-    UI --> GATE
-    DB --> GATE
+    subgraph STAGE_3 ["🌙 1+ Yr Present :: Agentic AI Nexus"]
+        AI["🤖 Claude AI + Agentic Workflows"]
+        VC["⚡ Vibe Coding + Prompt Eng"]
+        GR["🕸️ Graph Engineering / GraphRAG"]
+        VC --> AI
+        GR <--> AI
+    end
 
-    style AI_NEXUS fill:#041224,stroke:#00B4FF,stroke-width:2px,color:#ffffff
-    style FINTECH_CORE fill:#071E3D,stroke:#ffffff,stroke-width:1.5px,color:#ffffff
-    style CLAUDE fill:#0088FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style GRAPH fill:#0055AA,stroke:#00B4FF,stroke-width:2px,color:#ffffff
-    style GATE fill:#00B4FF,stroke:#ffffff,stroke-width:3px,color:#000000
+    VF ==>|Enterprise Rigor| RE
+    RE ==>|API Architecture| STAGE_3
+    AI ==> OUT(("✨ Autonomous Systems"))
+
+    style STAGE_1 fill:#041224,stroke:#0099FF,stroke-width:2px,color:#ffffff
+    style STAGE_2 fill:#061B36,stroke:#00B4FF,stroke-width:2px,color:#ffffff
+    style STAGE_3 fill:#08254A,stroke:#FFFFFF,stroke-width:2px,color:#ffffff
+    style AI fill:#0088FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style OUT fill:#00B4FF,stroke:#ffffff,stroke-width:3px,color:#000000
 ```
 
 ---
@@ -95,8 +105,8 @@ graph TD
 | Domain | Core Technologies & Paradigms |
 | :--- | :--- |
 | **🤖 AI, Agents & Graph** | ![Claude AI](https://img.shields.io/badge/Claude_AI-0099FF?style=for-the-badge&logo=anthropic&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0066CC?style=for-the-badge&logo=probot&logoColor=white) ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding_%E2%9A%A1-00B4FF?style=for-the-badge&logo=sparkles&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0080FF?style=for-the-badge&logo=terminal&logoColor=white) ![Graph Engineering](https://img.shields.io/badge/Graph_Engineering-004C99?style=for-the-badge&logo=neo4j&logoColor=white) |
-| **🧪 Test Automation & QA** | ![Selenium](https://img.shields.io/badge/Selenium-0099FF?style=for-the-badge&logo=selenium&logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/Cucumber_BDD-0077CC?style=for-the-badge&logo=cucumber&logoColor=white) ![Postman API](https://img.shields.io/badge/Postman_API-00B4FF?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
-| **☕ Backend & Languages** | ![Java](https://img.shields.io/badge/Java-0099FF?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0077CC?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-00B4FF?style=for-the-badge&logo=javascript&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-0055AA?style=for-the-badge&logo=hibernate&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-004080?style=for-the-badge&logo=jquery&logoColor=white) |
+| **☕ Backend & API Eng** | ![Java](https://img.shields.io/badge/Java-0099FF?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0077CC?style=for-the-badge&logo=spring&logoColor=white) ![REST APIs](https://img.shields.io/badge/Real_Estate_&_FinTech_APIs-00B4FF?style=for-the-badge&logo=fastapi&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-0055AA?style=for-the-badge&logo=hibernate&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-004080?style=for-the-badge&logo=javascript&logoColor=white) |
+| **🧪 Test Automation & QA** | ![Selenium](https://img.shields.io/badge/Selenium-0099FF?style=for-the-badge&logo=selenium&logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/Cucumber_BDD-0077CC?style=for-the-badge&logo=cucumber&logoColor=white) ![Postman API](https://img.shields.io/badge/Postman_API-00B4FF?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-004080?style=for-the-badge&logo=jquery&logoColor=white) |
 | **☁️ DevOps, Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS_Cloud-0099FF?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0077CC?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins_CI/CD-00B4FF?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0055AA?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-004080?style=for-the-badge&logo=git&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-0066CC?style=for-the-badge&logo=apache-tomcat&logoColor=white) |
 | **🗄️ Data & Persistence** | ![Oracle](https://img.shields.io/badge/Oracle_DB-0099FF?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0077CC?style=for-the-badge&logo=postgresql&logoColor=white) ![Knowledge Graphs](https://img.shields.io/badge/Graph_Topologies-00B4FF?style=for-the-badge&logo=graphql&logoColor=white) |
 
@@ -108,24 +118,24 @@ graph TD
 
 ```diff
 + [01] CLAUDE AI & MCP ARCHITECTURE
-  Utilizing Claude models, Extended Thinking, and Model Context Protocol (MCP) to inspect API payloads,
-  synthesize edge-case financial test scenarios, and perform automated root-cause analysis.
+  Leveraging Claude models, Extended Thinking, and Model Context Protocol (MCP) to connect LLMs
+  directly with enterprise APIs, databases, and developer toolchains.
 
-+ [02] AGENTIC AI ORCHESTRATION
-  Building multi-agent pipelines where specialized agents autonomously plan, execute, validate,
-  and self-heal API & UI test suites across distributed FinTech environments.
++ [02] AGENTIC AI ORCHESTRATION (1+ YEAR FOCUS)
+  Designing autonomous multi-agent systems that plan, reason, execute API tool-calls, validate outputs,
+  and self-heal complex software workflows without human intervention.
 
 + [03] VIBE CODING (AI-AUGMENTED VELOCITY)
-  Translating high-level architectural intent into production-grade Java/Spring & automation codebases
-  at 10x speed while maintaining strict static-analysis and enterprise security guardrails.
+  Translating domain architectures (FinTech & Real Estate APIs) into production-grade codebases at 10x speed
+  while enforcing strict enterprise quality and testability standards.
 
 + [04] SCIENTIFIC PROMPT ENGINEERING
-  Designing deterministic, version-controlled system prompts using Chain-of-Thought (CoT), XML-structured
-  context injection, and automated evaluation rubrics for zero-hallucination engineering outputs.
+  Structuring deterministic system prompts using Chain-of-Thought (CoT), XML context schemas,
+  and automated evaluation pipelines for zero-hallucination reliability.
 
 + [05] GRAPH ENGINEERING & TOPOLOGY MAPPING
-  Modeling complex microservice dependencies, API call-chains, and relational schemas as Knowledge Graphs
-  to power GraphRAG and intelligent impact-based test selection.
+  Modeling complex API call-chains, real-estate data entities, and microservice dependencies as
+  Knowledge Graphs to power GraphRAG and intelligent system reasoning.
 ```
 
 ---
@@ -158,7 +168,7 @@ graph TD
 
 <br/><br/>
 
-<!-- 🟦 Footer Wave Banner (XML-Safe Fixed) -->
+<!-- 🟦 Footer Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:0099FF,100:0052D4&height=110&section=footer&text=%E2%98%AA%20Engineered%20with%20Precision%20%E2%80%A2%20AI%20%E2%80%A2%20Freedom%20%E2%98%AA&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Banner" />
 
 </div>
